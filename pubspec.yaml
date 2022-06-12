@@ -58,8 +58,31 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+     - images/akrep_buyuk8.png
+     - images/akrep8.png
+     - images/aslan_buyuk5.png
+     - images/aslan5.png
+     - images/balik_buyuk12.png
+     - images/balik12.png
+     - images/basak_buyuk6.png
+     - images/basak6.png
+     - images/boga_buyuk2.png
+     - images/boga2.png
+     - images/ikizler_buyuk3.png
+     - images/ikizler3.png
+     - images/koc_buyuk1.png
+     - images/koc1.png
+     - images/kova_buyuk11.png
+     - images/kova11.png
+     - images/oglak_buyuk10.png
+     - images/oglak10.png
+     - images/terazi_buyuk7.png
+     - images/terazi7.png
+     - images/yay_buyuk9.png
+     - images/yay9.png
+     - images/yengec_buyuk4.png
+     - images/yengec4.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
