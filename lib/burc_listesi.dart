@@ -32,7 +32,7 @@ class BurcListesi extends StatelessWidget {
       var tarih = Strings.BURC_TARIHLERI[i];
       var detay = Strings.BURC_GENEL_OZELLIKLERI[i];
       var kucukResim = Strings.BURC_ADLARI[i].toLowerCase() + '${i+1}.png';
-      var buyukResim = Strings.BURC_ADLARI[i].toLowerCase() + 'buyuk${i+1}.png';
+      var buyukResim = Strings.BURC_ADLARI[i].toLowerCase() + '_buyuk${i+1}.png';
 
       Burc eklenecekBurc = Burc(ad, tarih, detay, kucukResim, buyukResim);
       gecici.add(eklenecekBurc);
